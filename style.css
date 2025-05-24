@@ -1,0 +1,23 @@
+img {
+    border: 5px solid lightblue;
+}
+h1 {
+    text-align: center;
+    color: brown
+}
+p {
+    color: black;
+    font-size: 30px;
+}
+body {
+    background: url(https://img.freepik.com/free-vector/background-abstract-pixel-rain_23-2148370436.jpg?semt=ais_hybrid&w=740);
+}
+footer p {
+    color: red;
+}
+
+h1, p {
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
